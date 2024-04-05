@@ -5,4 +5,6 @@ Ques2:Make a RGB composite from any image collection for your Upazila. Upload th
 [ans2](https://code.earthengine.google.com/fa0e536d0c7c59c95d4ea7cad51ce0d5)
 
 ques3: Make a False color composite from any image collection for your upazila. Upload the code and code link, and screenshot in your github repo. Submit your repo link.
+
 [ans3](https://code.earthengine.google.com/38e03dc5e09d483321229996276eb2e6)
+[Screenshort](https://github.com/Anamikachow56/assingment10-GEE-image-collection/blob/183ba36a16add0ac400699826af3fa59e4f39945/FALSE%20COLOR%20IMAGE.png)
