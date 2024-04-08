@@ -7,7 +7,7 @@ Ques1: Select an image collection of any Satellite, filter by boundary and date.
 
 Ques2:Make a RGB composite from any image collection for your Upazila. Upload the code and code link, and screenshot in your github repo. Submit your repo link.
 
-[ans2](https://code.earthengine.google.com/fa0e536d0c7c59c95d4ea7cad51ce0d5)
+[ans2](https://code.earthengine.google.com/934f531c8e5a6be63513478ad760429e)
 
 
 [Screenshot](https://github.com/Anamikachow56/assingment10-GEE-image-collection/blob/004401969f8ac8c343278490800a983abc2e0e1f/RGB%20IMAGE.png)
